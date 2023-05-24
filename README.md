@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Sarathe</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"><img src="">  </p>
+<p align="left"><img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">  </p>
 
 
 - 🔭 I’m currently working on **Data Analysis & Visualization**
