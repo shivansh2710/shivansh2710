@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh Sarathe</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt coding" width="350" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 
 - 🔭 I’m currently working on **Data Analysis & Visualization**
 
